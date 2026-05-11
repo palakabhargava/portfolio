@@ -4,7 +4,6 @@
 
 A futuristic, single-page personal portfolio for **Palaka Bhargava Venkata Ramudu**, showcasing skills, projects, education, certifications, and blog posts — designed with a clean, glassmorphic, tech-focused aesthetic.
 
-🌐 **Live Preview:** https://id-preview--ac55ba22-6a8d-4dbd-bb11-7c6f04720ba5.lovable.app
 
 ---
 
